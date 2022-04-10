@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cdacproject/static/css/main.0801a652.css",
+    "main.js": "/cdacproject/static/js/main.a444ba1d.js",
+    "index.html": "/cdacproject/index.html",
+    "main.0801a652.css.map": "/cdacproject/static/css/main.0801a652.css.map",
+    "main.a444ba1d.js.map": "/cdacproject/static/js/main.a444ba1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0801a652.css",
+    "static/js/main.a444ba1d.js"
+  ]
+}
